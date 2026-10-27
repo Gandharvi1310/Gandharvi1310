@@ -1,5 +1,5 @@
-## Hi there 👋 
-I'm Gandharvi Bangde
+## Hi there 👋 I'm Gandharvi Bangde
+
 I am a final-year B.Tech CS student specializing in network security, forensics, and embedded systems.
 
 🔭 Working on: Offensive/defensive cybersecurity portfolio (packet sniffers, multi-threaded scanners, SSH/Telnet honeypot pipeline).
